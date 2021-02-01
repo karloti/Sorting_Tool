@@ -1,0 +1,1 @@
+fun solution(elements: Set<String>, element: String) = (elements - element).toMutableSet()
